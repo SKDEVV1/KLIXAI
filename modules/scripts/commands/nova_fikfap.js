@@ -6,7 +6,7 @@ module.exports.config = {
   version: "1.0",
   category: "18+",
   description: "Fetches a video from FikFap",
-  adminOnly: true,
+  adminOnly: flase,
   usePrefix: false,
   cooldown: 5,
 };
